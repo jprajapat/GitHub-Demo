@@ -27,8 +27,6 @@
 		document.getElementById('output').innerHTML = string;
 	}
 </script>
-
-
 </head>
 <body>
 	<div class="container">
